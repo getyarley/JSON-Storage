@@ -1,0 +1,1123 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/aa2443a2-7ced-5b74-992f-163b03459638",
+            "url": "https://www.nytimes.com/2021/02/24/science/johnson-johnson-covid-vaccine.html",
+            "id": 100000007620357,
+            "asset_id": 100000007620357,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-24 21:19:13",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "internal-essential;Coronavirus (2019-nCoV);Vaccination and Immunization;Johnson & Johnson;Food and Drug Administration",
+            "column": null,
+            "byline": "By Carl Zimmer, Noah Weiland and Sharon LaFraniere",
+            "type": "Article",
+            "title": "New analyses show Johnson & Johnson’s one-dose vaccine works well.",
+            "abstract": "F.D.A. studies show the shot strongly protects against severe illness and may reduce spread of the virus. But the drugmaker has fallen short of initial production goals.",
+            "des_facet": [
+                "internal-essential",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization"
+            ],
+            "org_facet": [
+                "Johnson & Johnson",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jacqui Dallimore, a research nurse, delivering a shot to a volunteer in the Johnson &amp; Johnson vaccine trial at the Desmond Tutu H.I.V. Foundation Youth Center in Masiphumelele, South Africa, in December.",
+                    "copyright": "Joao Silva/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-JJVACCINE1/24VIRUS-JJVACCINE1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-JJVACCINE1/24VIRUS-JJVACCINE1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-JJVACCINE1/24VIRUS-JJVACCINE1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3f423cee-742b-59a2-9412-6b82e88266ca",
+            "url": "https://www.nytimes.com/2021/02/24/us/smith-college-race.html",
+            "id": 100000007612265,
+            "asset_id": 100000007612265,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-25 09:33:01",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Colleges and Universities;Discrimination;Race and Ethnicity;Black People;Whites;Workplace Hazards and Violations;Kanoute, Oumou;McCartney, Kathleen;Smith College",
+            "column": null,
+            "byline": "By Michael Powell",
+            "type": "Article",
+            "title": "Inside a Battle Over Race, Class and Power at Smith College",
+            "abstract": "A student said she was racially profiled while eating in a college dorm. An investigation found no evidence of bias. But the incident will not fade away.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Discrimination",
+                "Race and Ethnicity",
+                "Black People",
+                "Whites",
+                "Workplace Hazards and Violations"
+            ],
+            "org_facet": [
+                "Smith College"
+            ],
+            "per_facet": [
+                "Kanoute, Oumou",
+                "McCartney, Kathleen"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Smith College is an elite 145-year-old liberal arts college, where tuition, room and board top $78,000 a year and where the employees who keep the school running often come from working-class neighborhoods.",
+                    "copyright": "Christopher Capozziello for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/us/24SmithCollege1/24SmithCollege1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/us/24SmithCollege1/24SmithCollege1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/us/24SmithCollege1/24SmithCollege1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/859e4ab9-4590-5b8f-a528-82c07b061954",
+            "url": "https://www.nytimes.com/2021/02/24/opinion/covid-icu-nurses-arizona.html",
+            "id": 100000007607062,
+            "asset_id": 100000007607062,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-25 09:16:27",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Nursing and Nurses;Hospitals;Phoenix (Ariz);United States",
+            "column": null,
+            "byline": "",
+            "type": "Article",
+            "title": "Death, Through a Nurse’s Eyes",
+            "abstract": "A short film offering a firsthand perspective of the brutality of the pandemic inside a Covid-19 I.C.U.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Deaths (Fatalities)",
+                "Nursing and Nurses",
+                "Hospitals"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Phoenix (Ariz)",
+                "United States"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/91b99198-387e-584e-be77-b6664e6e1a8b",
+            "url": "https://www.nytimes.com/2021/02/24/health/coronavirus-variant-nyc.html",
+            "id": 100000007622108,
+            "asset_id": 100000007622108,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-25 19:12:34",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Disease Rates;Vaccination and Immunization;Coronavirus (2019-nCoV);your-feed-science;New York Metropolitan Area;New York City",
+            "column": null,
+            "byline": "By Apoorva Mandavilli",
+            "type": "Article",
+            "title": "A New Coronavirus Variant Is Spreading in New York, Researchers Report",
+            "abstract": "The variant contains a mutation thought to help the virus dodge the immune system, scientists said.",
+            "des_facet": [
+                "Disease Rates",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "your-feed-science"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New York Metropolitan Area",
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People lined up outside Medgar Evers College in Brooklyn for vaccines and vaccination appointments on Wednesday.",
+                    "copyright": "James Estrin/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-NYCVARIANT1/24VIRUS-NYCVARIANT1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-NYCVARIANT1/24VIRUS-NYCVARIANT1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-NYCVARIANT1/24VIRUS-NYCVARIANT1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9b8f5d2f-1e64-5759-81bb-1af8fd16a496",
+            "url": "https://www.nytimes.com/2021/02/23/opinion/britney-spears-mara-wilson-hollywood.html",
+            "id": 100000007612599,
+            "asset_id": 100000007612599,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-25 16:13:33",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Actors and Actresses;Women and Girls;Children and Childhood;Celebrities;Movies;Spears, Britney;Wilson, Mara (1987- )",
+            "column": null,
+            "byline": "By Mara Wilson",
+            "type": "Article",
+            "title": "The Lies Hollywood Tells About Little Girls",
+            "abstract": "Britney Spears and I learned the same lesson growing up: When you’re young and famous, there is no such thing as control.",
+            "des_facet": [
+                "Actors and Actresses",
+                "Women and Girls",
+                "Children and Childhood",
+                "Celebrities",
+                "Movies"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Spears, Britney",
+                "Wilson, Mara (1987- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The author in the 1993 film &ldquo;Mrs. Doubtfire.&rdquo;",
+                    "copyright": "20th Century Fox, via Everett Collection",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8c3ebf35-a477-57f4-870c-54a73fe88d4a",
+            "url": "https://www.nytimes.com/2021/02/24/nyregion/cuomo-lindsey-boylan-harassment.html",
+            "id": 100000007621843,
+            "asset_id": 100000007621843,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-25 11:10:44",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Sexual Harassment;Politics and Government;Workplace Hazards and Violations;Boylan, Lindsey (1984- );Cuomo, Andrew M;New York State",
+            "column": null,
+            "byline": "By Jesse McKinley and Luis Ferré-Sadurní",
+            "type": "Article",
+            "title": "Ex-Aide Details Sexual Harassment Claims Against Gov. Cuomo",
+            "abstract": "Lindsey Boylan accused the New York governor of kissing her in his office in 2018. She left her job as a special adviser to him soon after.",
+            "des_facet": [
+                "Sexual Harassment",
+                "Politics and Government",
+                "Workplace Hazards and Violations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Boylan, Lindsey (1984- )",
+                "Cuomo, Andrew M"
+            ],
+            "geo_facet": [
+                "New York State"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lindsey Boylan, now a candidate for Manhattan borough president, accused Gov. Andrew Cuomo of going “out of his way to touch me on my lower back, arms and legs.”",
+                    "copyright": "Rob Latour/Shutterstock",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/nyregion/24cuomo-boylan/24cuomo-boylan-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/nyregion/24cuomo-boylan/24cuomo-boylan-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/nyregion/24cuomo-boylan/24cuomo-boylan-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5208c539-c446-53e2-a5c4-b5c3eadb5459",
+            "url": "https://www.nytimes.com/2021/02/23/nyregion/daniel-prude-rochester-police.html",
+            "id": 100000007619563,
+            "asset_id": 100000007619563,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-24 10:00:42",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Police Brutality, Misconduct and Shootings;Black People;Black Lives Matter Movement;Prude, Daniel (d 2020);James, Letitia;Rochester (NY);New York State",
+            "column": null,
+            "byline": "By Sarah Maslin Nir",
+            "type": "Article",
+            "title": "Rochester Officers Will Not Be Charged in Killing of Daniel Prude",
+            "abstract": "Mr. Prude, a Black man who was having an apparent psychotic episode, died after police officers placed a mesh hood over his head and pinned him to the ground.",
+            "des_facet": [
+                "Police Brutality, Misconduct and Shootings",
+                "Black People",
+                "Black Lives Matter Movement"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Prude, Daniel (d 2020)",
+                "James, Letitia"
+            ],
+            "geo_facet": [
+                "Rochester (NY)",
+                "New York State"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters in Rochester on Tuesday night after news broke that no officers would be charged in Daniel Prude’s death.",
+                    "copyright": "Libby March for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5ba0e0a4-4be5-5c16-8e5d-ce9c0328dd97",
+            "url": "https://www.nytimes.com/2021/02/23/opinion/us-politics-texas-mars.html",
+            "id": 100000007620145,
+            "asset_id": 100000007620145,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-24 04:37:12",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Weather;Global Warming;Wind Power;United States Politics and Government;Mars (Planet);Abbott, Gregory W (1957- );Texas",
+            "column": null,
+            "byline": "By Thomas L. Friedman",
+            "type": "Article",
+            "title": "Can You Believe This Is Happening in America?",
+            "abstract": "We used to dream big. Now we’re increasingly thinking short term.",
+            "des_facet": [
+                "Weather",
+                "Global Warming",
+                "Wind Power",
+                "United States Politics and Government",
+                "Mars (Planet)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Abbott, Gregory W (1957- )"
+            ],
+            "geo_facet": [
+                "Texas"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/23friedman-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/merlin_157866885_1276f323-efa9-4cb0-858f-8f2bed5676ef-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/merlin_157866885_1276f323-efa9-4cb0-858f-8f2bed5676ef-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/763d29ef-540f-5dc9-834a-6631cf161046",
+            "url": "https://www.nytimes.com/2021/02/23/us/illinois-cash-bail-pritzker.html",
+            "id": 100000007619669,
+            "asset_id": 100000007619669,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-24 09:04:18",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Bail;Law and Legislation;Mental Health and Disorders;Crime and Criminals;Pritzker, J B;Illinois",
+            "column": null,
+            "byline": "By Maria Cramer",
+            "type": "Article",
+            "title": "Illinois Becomes First State to Eliminate Cash Bail",
+            "abstract": "Gov. J.B. Pritzker signed a law that he said would end a system that disproportionately hurts the poor and favors wealthier defendants.",
+            "des_facet": [
+                "Bail",
+                "Law and Legislation",
+                "Mental Health and Disorders",
+                "Crime and Criminals"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Pritzker, J B"
+            ],
+            "geo_facet": [
+                "Illinois"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gov. J.B. Pritzker of Illinois on Monday signed a bill that he said would transform the state’s legal system and increase accountability measures for police officers.",
+                    "copyright": "Ashlee Rezin Garcia/Chicago Sun-Times, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/23xp-bail-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/merlin_184124475_eb3eb2f5-836a-4bc0-8100-520f3c048c6a-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/merlin_184124475_eb3eb2f5-836a-4bc0-8100-520f3c048c6a-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7fbe62e3-9aab-5421-b9a2-b2f7aa655037",
+            "url": "https://www.nytimes.com/2021/02/24/science/nasa-mars-parachute-code.html",
+            "id": 100000007620308,
+            "asset_id": 100000007620308,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-24 13:48:07",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "Perseverance (Mars Rover);Parachutes and Parachute Jumping;Cryptography, Codes and Ciphers;Mars (Planet);Space and Astronomy;National Aeronautics and Space Administration;Jet Propulsion Laboratory",
+            "column": null,
+            "byline": "By Kenneth Chang",
+            "type": "Article",
+            "title": "NASA Sent a Secret Message to Mars. Meet the People Who Decoded It.",
+            "abstract": "Engineers hinted they had hidden a code in the parachute that landed the Perseverance rover. Within hours, puzzle enthusiasts cracked it.",
+            "des_facet": [
+                "Perseverance (Mars Rover)",
+                "Parachutes and Parachute Jumping",
+                "Cryptography, Codes and Ciphers",
+                "Mars (Planet)",
+                "Space and Astronomy"
+            ],
+            "org_facet": [
+                "National Aeronautics and Space Administration",
+                "Jet Propulsion Laboratory"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The parachute that helped land the Perseverance spacecraft, seen from an upward-looking camera during landing on Feb. 18. Within hours of this image’s release on Monday, people figured out the message hidden in its pattern.",
+                    "copyright": "NASA/JPL-Caltech",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24MARS-PARACHUTE1/24MARS-PARACHUTE1-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24MARS-PARACHUTE1/24MARS-PARACHUTE1-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/24/science/24MARS-PARACHUTE1/24MARS-PARACHUTE1-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e63c3c4e-ae0d-57ee-9f21-de8edaa3ae6c",
+            "url": "https://www.nytimes.com/2021/02/23/health/coronavirus-california-variant.html",
+            "id": 100000007619583,
+            "asset_id": 100000007619583,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-25 19:16:54",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Research;Genetics and Heredity;your-feed-science;your-feed-healthcare;Chiu, Charles;California;San Francisco (Calif)",
+            "column": null,
+            "byline": "By Carl Zimmer",
+            "type": "Article",
+            "title": "Studies Examine Variant Surging in California, and the News Isn’t Good",
+            "abstract": "Two studies confirm that a new coronavirus mutant in California is more contagious, although the scale of its threat is unclear.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Disease Rates",
+                "Research",
+                "Genetics and Heredity",
+                "your-feed-science",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Chiu, Charles"
+            ],
+            "geo_facet": [
+                "California",
+                "San Francisco (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A medical team intubated a Covid-19 patient at Marian Regional Medical Center in Santa Maria, Calif., this month. ",
+                    "copyright": "Daniel Dreifuss for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d6c29105-728e-5c89-b193-78ab13919830",
+            "url": "https://www.nytimes.com/2021/02/23/nyregion/new-jersey-lucia-declerck-covid.html",
+            "id": 100000007618331,
+            "asset_id": 100000007618331,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-24 23:28:05",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Coronavirus (2019-nCoV);Nursing Homes;Vaccination and Immunization;Content Type: Personal Profile;DeClerck, Lucia (1916- );New Jersey",
+            "column": null,
+            "byline": "By Tracey Tully",
+            "type": "Article",
+            "title": "This 105-Year-Old Beat Covid. She Credits Gin-Soaked Raisins.",
+            "abstract": "Lucia DeClerck, the oldest resident of her New Jersey nursing home, tested positive for the virus on her 105th birthday, one day after her second vaccine shot.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Nursing Homes",
+                "Vaccination and Immunization",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "DeClerck, Lucia (1916- )"
+            ],
+            "geo_facet": [
+                "New Jersey"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lucia DeClerck, 105, said her secret to a long life was simple. “Prayer. Prayer. Prayer,” she said. “One step at a time. No junk food.”",
+                    "copyright": "Michael Neiman",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/31b53be8-e78b-5497-b4ab-a2c7a4991fc5",
+            "url": "https://www.nytimes.com/2021/02/24/science/new-world-map.html",
+            "id": 100000007620716,
+            "asset_id": 100000007620716,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-25 13:02:18",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "Maps;Geography;Earth;Mathematics;Research;your-feed-science",
+            "column": null,
+            "byline": "By Joshua Sokol",
+            "type": "Article",
+            "title": "Can This New Map Fix Our Distorted Views of the World?",
+            "abstract": "You’re going to need some double-sided tape.",
+            "des_facet": [
+                "Maps",
+                "Geography",
+                "Earth",
+                "Mathematics",
+                "Research",
+                "your-feed-science"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/20ca3937-ad26-5d81-842d-5479ceef60d2",
+            "url": "https://www.nytimes.com/2021/02/24/opinion/covid-pandemic-mothers-parenting.html",
+            "id": 100000007619273,
+            "asset_id": 100000007619273,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-24 22:53:49",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Quarantine (Life and Culture);Children and Childhood;Coronavirus (2019-nCoV);Parenting;Work-Life Balance",
+            "column": null,
+            "byline": "By Jennifer Senior",
+            "type": "Article",
+            "title": "Mothers All Over Are Losing It",
+            "abstract": "Pandemic life has made us feel more insecure about the aspects of our parenting we were already most insecure about.",
+            "des_facet": [
+                "Quarantine (Life and Culture)",
+                "Children and Childhood",
+                "Coronavirus (2019-nCoV)",
+                "Parenting",
+                "Work-Life Balance"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sophie Chivet/Agence VU'",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/25/opinion/24senior-new-print/24senior-new-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/25/opinion/24senior-new-print/24senior-new-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/25/opinion/24senior-new-print/24senior-new-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/dc9f2723-2190-54d9-abcb-dc37177ec1f2",
+            "url": "https://www.nytimes.com/2021/02/23/sports/golf/tiger-woods-car-accident.html",
+            "id": 100000007620848,
+            "asset_id": 100000007620848,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-25 14:39:58",
+            "section": "Sports",
+            "subsection": "Golf",
+            "nytdsection": "sports",
+            "adx_keywords": "Traffic Accidents and Safety;Golf;Masters Golf Tournament;Woods, Tiger;Los Angeles County (Calif)",
+            "column": null,
+            "byline": "By Kevin Draper and Alan Blinder",
+            "type": "Article",
+            "title": "What to Know About Tiger Woods’s Car Crash and Condition",
+            "abstract": "Woods is recovering from “serious” leg injuries but his long-term prognosis is not publicly known. The authorities are investigating the crash solely as an accident, not as a criminal case.",
+            "des_facet": [
+                "Traffic Accidents and Safety",
+                "Golf",
+                "Masters Golf Tournament"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Woods, Tiger"
+            ],
+            "geo_facet": [
+                "Los Angeles County (Calif)"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/25548298-fbdd-50d3-bb6c-b814b7d9f8b6",
+            "url": "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.html",
+            "id": 100000007621133,
+            "asset_id": 100000007621133,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-24 13:08:10",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Romney, Mitt;Trump, Donald J;Republican Party",
+            "column": null,
+            "byline": "By Thomas Kaplan",
+            "type": "Article",
+            "title": "Romney predicts Trump would win the 2024 G.O.P. nomination if he ran for president.",
+            "abstract": "“I would probably be getting behind somebody who I thought more represented the tiny wing of the Republican Party that I represent,” Mr. Romney said.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Romney, Mitt",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Mitt Romney of Utah said on Tuesday that he thought if Donald J. Trump ran for president in 2024, he would win the Republican Party’s nomination.",
+                    "copyright": "Erin Scott for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/38d5249c-826c-5552-ad93-3a96eb26f1f6",
+            "url": "https://www.nytimes.com/2021/02/24/well/move/weight-gain-amazon.html",
+            "id": 100000007617777,
+            "asset_id": 100000007617777,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-25 10:51:28",
+            "section": "Well",
+            "subsection": "Move",
+            "nytdsection": "well",
+            "adx_keywords": "Exercise;Children and Childhood;Obesity;Weight;Eating Disorders;Calories;Diet and Nutrition;Indigenous People",
+            "column": null,
+            "byline": "By Gretchen Reynolds",
+            "type": "Article",
+            "title": "Exercise vs. Diet? What Children of the Amazon Can Teach Us About Weight Gain",
+            "abstract": "What we eat may be more important than how much we move when it comes to fighting obesity.",
+            "des_facet": [
+                "Exercise",
+                "Children and Childhood",
+                "Obesity",
+                "Weight",
+                "Eating Disorders",
+                "Calories",
+                "Diet and Nutrition",
+                "Indigenous People"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A young girl carries harvested food, part of the traditional hunting and gathering lifestyle of the Shuar of Amazonian Ecuador.",
+                    "copyright": "Samuel S. Urlacher, Ph.D. ",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/03/11/well/11Well-sci-physed-amazon2/11Well-sci-physed-amazon2-thumbStandard-v5.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/03/11/well/11Well-sci-physed-amazon2/11Well-sci-physed-amazon2-mediumThreeByTwo210-v5.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/03/11/well/11Well-sci-physed-amazon2/11Well-sci-physed-amazon2-mediumThreeByTwo440-v5.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/312205bb-6aa3-5269-bfb6-36289ce2a80e",
+            "url": "https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html",
+            "id": 100000006667276,
+            "asset_id": 100000006667276,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-24 11:43:43",
+            "section": "Books",
+            "subsection": "",
+            "nytdsection": "books",
+            "adx_keywords": "Poetry and Poets;Books and Literature;Book Trade and Publishing;Deaths (Obituaries);Ferlinghetti, Lawrence;City Lights Bookstore;San Francisco (Calif)",
+            "column": null,
+            "byline": "By Jesse McKinley",
+            "type": "Article",
+            "title": "Lawrence Ferlinghetti, Poet Who Nurtured the Beats, Dies at 101",
+            "abstract": "An unapologetic proponent of “poetry as insurgent art,” he was also a publisher and the owner of the celebrated San Francisco bookstore City Lights.",
+            "des_facet": [
+                "Poetry and Poets",
+                "Books and Literature",
+                "Book Trade and Publishing",
+                "Deaths (Obituaries)"
+            ],
+            "org_facet": [
+                "City Lights Bookstore"
+            ],
+            "per_facet": [
+                "Ferlinghetti, Lawrence"
+            ],
+            "geo_facet": [
+                "San Francisco (Calif)"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/df122551-225a-556c-b9d6-02165261628a",
+            "url": "https://www.nytimes.com/2021/02/23/us/vermont-gun-range-pawlet-zoning.html",
+            "id": 100000007577648,
+            "asset_id": 100000007577648,
+            "source": "New York Times",
+            "published_date": "2021-02-23",
+            "updated": "2021-02-24 08:10:07",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Firearms;Gun Control;Zoning;Real Estate and Housing (Residential);Threats and Threatening Messages;Right-Wing Extremism and Alt-Right;Land Use Policies;Banyai, Daniel;Pawlet (Vt)",
+            "column": null,
+            "byline": "By Ellen Barry",
+            "type": "Article",
+            "title": "A Bristling Standoff Rattles Gun-Friendly Vermont",
+            "abstract": "In Pawlet, Vt., where a landowner opened a tactical weapons training site, a zoning dispute has escalated into something more dangerous.",
+            "des_facet": [
+                "Firearms",
+                "Gun Control",
+                "Zoning",
+                "Real Estate and Housing (Residential)",
+                "Threats and Threatening Messages",
+                "Right-Wing Extremism and Alt-Right",
+                "Land Use Policies"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Banyai, Daniel"
+            ],
+            "geo_facet": [
+                "Pawlet (Vt)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shooting range and tactical course at Slate Ridge.",
+                    "copyright": "Hilary Swift for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-mediumThreeByTwo210-v4.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-mediumThreeByTwo440-v4.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3094e4a0-ac87-534d-9362-c764308f000a",
+            "url": "https://www.nytimes.com/2021/02/24/us/politics/language-government-biden-trump.html",
+            "id": 100000007612668,
+            "asset_id": 100000007612668,
+            "source": "New York Times",
+            "published_date": "2021-02-24",
+            "updated": "2021-02-25 10:32:05",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Language and Languages;United States Politics and Government;Immigration and Emigration;Illegal Immigration;Global Warming;Biden, Joseph R Jr;Trump, Donald J;Bureau of Land Management;Environmental Protection Agency;Interior Department;Citizenship and Immigration Services (US);Homeland Security Department",
+            "column": null,
+            "byline": "By Michael D. Shear",
+            "type": "Article",
+            "title": "The Words That Are In and Out With the Biden Administration",
+            "abstract": "“The president has been clear to all of us — words matter, tone matters and civility matters,” said Jen Psaki, the White House press secretary.",
+            "des_facet": [
+                "Language and Languages",
+                "United States Politics and Government",
+                "Immigration and Emigration",
+                "Illegal Immigration",
+                "Global Warming"
+            ],
+            "org_facet": [
+                "Bureau of Land Management",
+                "Environmental Protection Agency",
+                "Interior Department",
+                "Citizenship and Immigration Services (US)",
+                "Homeland Security Department"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden in the Oval Office this month. The rhetorical overhaul is underway across the government as executive orders are drafted, news releases are modified and scores of federal forms are tweaked.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/21/us/politics/21dc-words-lede/21dc-words-lede-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/21/us/politics/21dc-words-lede/21dc-words-lede-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/02/21/us/politics/21dc-words-lede/21dc-words-lede-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
