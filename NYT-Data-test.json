@@ -1,0 +1,1137 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2579
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red212\green212\blue212;\red23\green23\blue23;\red202\green202\blue202;
+\red140\green211\blue254;\red194\green126\blue101;\red167\green197\blue152;}
+{\*\expandedcolortbl;;\cssrgb\c86275\c86275\c86275;\cssrgb\c11765\c11765\c11765;\cssrgb\c83137\c83137\c83137;
+\cssrgb\c61176\c86275\c99608;\cssrgb\c80784\c56863\c47059;\cssrgb\c70980\c80784\c65882;}
+\margl1440\margr1440\vieww20540\viewh11500\viewkind0
+\deftab720
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \{\cf4 \cb1 \strokec4 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf4 \cb3     \cf5 \strokec5 "status"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "OK"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Copyright (c) 2021 The New York Times Company.  All Rights Reserved."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3     \cf5 \strokec5 "num_results"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 20\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3     \cf5 \strokec5 "results"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/aa2443a2-7ced-5b74-992f-163b03459638"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/science/johnson-johnson-covid-vaccine.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620357\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620357\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 21:19:13"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Science"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "science"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "internal-essential;Coronavirus (2019-nCoV);Vaccination and Immunization;Johnson & Johnson;Food and Drug Administration"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Carl Zimmer, Noah Weiland and Sharon LaFraniere"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New analyses show Johnson & Johnson\'92s one-dose vaccine works well."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "F.D.A. studies show the shot strongly protects against severe illness and may reduce spread of the virus. But the drugmaker has fallen short of initial production goals."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "internal-essential"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Coronavirus (2019-nCoV)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Vaccination and Immunization"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Johnson & Johnson"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Food and Drug Administration"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Jacqui Dallimore, a research nurse, delivering a shot to a volunteer in the Johnson &amp; Johnson vaccine trial at the Desmond Tutu H.I.V. Foundation Youth Center in Masiphumelele, South Africa, in December."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Joao Silva/The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-JJVACCINE1/24VIRUS-JJVACCINE1-thumbStandard-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-JJVACCINE1/24VIRUS-JJVACCINE1-mediumThreeByTwo210-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-JJVACCINE1/24VIRUS-JJVACCINE1-mediumThreeByTwo440-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/3f423cee-742b-59a2-9412-6b82e88266ca"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/us/smith-college-race.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007612265\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007612265\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 09:33:01"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "U.S."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "u.s."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Colleges and Universities;Discrimination;Race and Ethnicity;Black People;Whites;Workplace Hazards and Violations;Kanoute, Oumou;McCartney, Kathleen;Smith College"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Michael Powell"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Inside a Battle Over Race, Class and Power at Smith College"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "A student said she was racially profiled while eating in a college dorm. An investigation found no evidence of bias. But the incident will not fade away."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Colleges and Universities"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Discrimination"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Race and Ethnicity"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Black People"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Whites"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Workplace Hazards and Violations"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Smith College"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Kanoute, Oumou"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "McCartney, Kathleen"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Smith College is an elite 145-year-old liberal arts college, where tuition, room and board top $78,000 a year and where the employees who keep the school running often come from working-class neighborhoods."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Christopher Capozziello for The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/us/24SmithCollege1/24SmithCollege1-thumbStandard-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/us/24SmithCollege1/24SmithCollege1-mediumThreeByTwo210-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/us/24SmithCollege1/24SmithCollege1-mediumThreeByTwo440-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/859e4ab9-4590-5b8f-a528-82c07b061954"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/opinion/covid-icu-nurses-arizona.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007607062\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007607062\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 09:16:27"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Opinion"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "opinion"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Coronavirus (2019-nCoV);Deaths (Fatalities);Nursing and Nurses;Hospitals;Phoenix (Ariz);United States"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Death, Through a Nurse\'92s Eyes"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "A short film offering a firsthand perspective of the brutality of the pandemic inside a Covid-19 I.C.U."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Coronavirus (2019-nCoV)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Deaths (Fatalities)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Nursing and Nurses"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Hospitals"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Phoenix (Ariz)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "United States"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/91b99198-387e-584e-be77-b6664e6e1a8b"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/health/coronavirus-variant-nyc.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007622108\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007622108\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 19:12:34"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Health"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "health"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Disease Rates;Vaccination and Immunization;Coronavirus (2019-nCoV);your-feed-science;New York Metropolitan Area;New York City"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Apoorva Mandavilli"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "A New Coronavirus Variant Is Spreading in New York, Researchers Report"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "The variant contains a mutation thought to help the virus dodge the immune system, scientists said."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Disease Rates"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Vaccination and Immunization"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Coronavirus (2019-nCoV)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "your-feed-science"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "New York Metropolitan Area"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "New York City"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "People lined up outside Medgar Evers College in Brooklyn for vaccines and vaccination appointments on Wednesday."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "James Estrin/The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-NYCVARIANT1/24VIRUS-NYCVARIANT1-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-NYCVARIANT1/24VIRUS-NYCVARIANT1-mediumThreeByTwo210.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24VIRUS-NYCVARIANT1/24VIRUS-NYCVARIANT1-mediumThreeByTwo440.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/9b8f5d2f-1e64-5759-81bb-1af8fd16a496"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/opinion/britney-spears-mara-wilson-hollywood.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007612599\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007612599\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 16:13:33"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Opinion"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "opinion"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Actors and Actresses;Women and Girls;Children and Childhood;Celebrities;Movies;Spears, Britney;Wilson, Mara (1987- )"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Mara Wilson"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "The Lies Hollywood Tells About Little Girls"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Britney Spears and I learned the same lesson growing up: When you\'92re young and famous, there is no such thing as control."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Actors and Actresses"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Women and Girls"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Children and Childhood"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Celebrities"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Movies"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Spears, Britney"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Wilson, Mara (1987- )"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "The author in the 1993 film &ldquo;Mrs. Doubtfire.&rdquo;"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "20th Century Fox, via Everett Collection"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-thumbStandard-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-mediumThreeByTwo210-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-mediumThreeByTwo440-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/8c3ebf35-a477-57f4-870c-54a73fe88d4a"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/nyregion/cuomo-lindsey-boylan-harassment.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007621843\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007621843\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 11:10:44"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "new york"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Sexual Harassment;Politics and Government;Workplace Hazards and Violations;Boylan, Lindsey (1984- );Cuomo, Andrew M;New York State"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Jesse McKinley and Luis Ferr\'e9-Sadurn\'ed"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Ex-Aide Details Sexual Harassment Claims Against Gov. Cuomo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Lindsey Boylan accused the New York governor of kissing her in his office in 2018. She left her job as a special adviser to him soon after."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Sexual Harassment"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Politics and Government"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Workplace Hazards and Violations"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Boylan, Lindsey (1984- )"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Cuomo, Andrew M"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "New York State"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Lindsey Boylan, now a candidate for Manhattan borough president, accused Gov. Andrew Cuomo of going \'93out of his way to touch me on my lower back, arms and legs.\'94"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Rob Latour/Shutterstock"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/nyregion/24cuomo-boylan/24cuomo-boylan-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/nyregion/24cuomo-boylan/24cuomo-boylan-mediumThreeByTwo210-v3.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/nyregion/24cuomo-boylan/24cuomo-boylan-mediumThreeByTwo440-v3.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/5208c539-c446-53e2-a5c4-b5c3eadb5459"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/nyregion/daniel-prude-rochester-police.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007619563\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007619563\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 10:00:42"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "new york"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Police Brutality, Misconduct and Shootings;Black People;Black Lives Matter Movement;Prude, Daniel (d 2020);James, Letitia;Rochester (NY);New York State"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Sarah Maslin Nir"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Rochester Officers Will Not Be Charged in Killing of Daniel Prude"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Mr. Prude, a Black man who was having an apparent psychotic episode, died after police officers placed a mesh hood over his head and pinned him to the ground."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Police Brutality, Misconduct and Shootings"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Black People"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Black Lives Matter Movement"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Prude, Daniel (d 2020)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "James, Letitia"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Rochester (NY)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "New York State"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Protesters in Rochester on Tuesday night after news broke that no officers would be charged in Daniel Prude\'92s death."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Libby March for The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-mediumThreeByTwo210.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-mediumThreeByTwo440.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/5ba0e0a4-4be5-5c16-8e5d-ce9c0328dd97"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/opinion/us-politics-texas-mars.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620145\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620145\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 04:37:12"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Opinion"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "opinion"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Weather;Global Warming;Wind Power;United States Politics and Government;Mars (Planet);Abbott, Gregory W (1957- );Texas"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Thomas L. Friedman"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Can You Believe This Is Happening in America?"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "We used to dream big. Now we\'92re increasingly thinking short term."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Weather"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Global Warming"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Wind Power"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "United States Politics and Government"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Mars (Planet)"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Abbott, Gregory W (1957- )"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Texas"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Damon Winter/The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/23friedman-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/merlin_157866885_1276f323-efa9-4cb0-858f-8f2bed5676ef-mediumThreeByTwo210.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/opinion/23friedman/merlin_157866885_1276f323-efa9-4cb0-858f-8f2bed5676ef-mediumThreeByTwo440.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/763d29ef-540f-5dc9-834a-6631cf161046"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/us/illinois-cash-bail-pritzker.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007619669\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007619669\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 09:04:18"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "U.S."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "u.s."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Bail;Law and Legislation;Mental Health and Disorders;Crime and Criminals;Pritzker, J B;Illinois"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Maria Cramer"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Illinois Becomes First State to Eliminate Cash Bail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Gov. J.B. Pritzker signed a law that he said would end a system that disproportionately hurts the poor and favors wealthier defendants."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Bail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Law and Legislation"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Mental Health and Disorders"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Crime and Criminals"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Pritzker, J B"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Illinois"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Gov. J.B. Pritzker of Illinois on Monday signed a bill that he said would transform the state\'92s legal system and increase accountability measures for police officers."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Ashlee Rezin Garcia/Chicago Sun-Times, via Associated Press"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/23xp-bail-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/merlin_184124475_eb3eb2f5-836a-4bc0-8100-520f3c048c6a-mediumThreeByTwo210.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/merlin_184124475_eb3eb2f5-836a-4bc0-8100-520f3c048c6a-mediumThreeByTwo440.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/7fbe62e3-9aab-5421-b9a2-b2f7aa655037"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/science/nasa-mars-parachute-code.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620308\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620308\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 13:48:07"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Science"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "science"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Perseverance (Mars Rover);Parachutes and Parachute Jumping;Cryptography, Codes and Ciphers;Mars (Planet);Space and Astronomy;National Aeronautics and Space Administration;Jet Propulsion Laboratory"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Kenneth Chang"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "NASA Sent a Secret Message to Mars. Meet the People Who Decoded It."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Engineers hinted they had hidden a code in the parachute that landed the Perseverance rover. Within hours, puzzle enthusiasts cracked it."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Perseverance (Mars Rover)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Parachutes and Parachute Jumping"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Cryptography, Codes and Ciphers"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Mars (Planet)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Space and Astronomy"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "National Aeronautics and Space Administration"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Jet Propulsion Laboratory"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "The parachute that helped land the Perseverance spacecraft, seen from an upward-looking camera during landing on Feb. 18. Within hours of this image\'92s release on Monday, people figured out the message hidden in its pattern."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "NASA/JPL-Caltech"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24MARS-PARACHUTE1/24MARS-PARACHUTE1-thumbStandard.png"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24MARS-PARACHUTE1/24MARS-PARACHUTE1-mediumThreeByTwo210.png"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/24/science/24MARS-PARACHUTE1/24MARS-PARACHUTE1-mediumThreeByTwo440.png"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/e63c3c4e-ae0d-57ee-9f21-de8edaa3ae6c"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/health/coronavirus-california-variant.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007619583\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007619583\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 19:16:54"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Health"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "health"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Coronavirus (2019-nCoV);Disease Rates;Research;Genetics and Heredity;your-feed-science;your-feed-healthcare;Chiu, Charles;California;San Francisco (Calif)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Carl Zimmer"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Studies Examine Variant Surging in California, and the News Isn\'92t Good"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Two studies confirm that a new coronavirus mutant in California is more contagious, although the scale of its threat is unclear."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Coronavirus (2019-nCoV)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Disease Rates"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Research"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Genetics and Heredity"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "your-feed-science"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "your-feed-healthcare"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Chiu, Charles"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "California"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "San Francisco (Calif)"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "A medical team intubated a Covid-19 patient at Marian Regional Medical Center in Santa Maria, Calif., this month.\'a0"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Daniel Dreifuss for The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-mediumThreeByTwo210.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/science/23virus-CAvariant1/23virus-CAvariant1-mediumThreeByTwo440.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/d6c29105-728e-5c89-b193-78ab13919830"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/nyregion/new-jersey-lucia-declerck-covid.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007618331\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007618331\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 23:28:05"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "new york"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Coronavirus (2019-nCoV);Nursing Homes;Vaccination and Immunization;Content Type: Personal Profile;DeClerck, Lucia (1916- );New Jersey"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Tracey Tully"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "This 105-Year-Old Beat Covid. She Credits Gin-Soaked Raisins."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Lucia DeClerck, the oldest resident of her New Jersey nursing home, tested positive for the virus on her 105th birthday, one day after her second vaccine shot."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Coronavirus (2019-nCoV)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Nursing Homes"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Vaccination and Immunization"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Content Type: Personal Profile"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "DeClerck, Lucia (1916- )"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "New Jersey"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Lucia DeClerck, 105, said her secret to a long life was simple. \'93Prayer. Prayer. Prayer,\'94 she said. \'93One step at a time. No junk food.\'94"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Michael Neiman"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-thumbStandard-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-mediumThreeByTwo210-v3.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-mediumThreeByTwo440-v3.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/31b53be8-e78b-5497-b4ab-a2c7a4991fc5"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/science/new-world-map.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620716\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620716\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 13:02:18"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Science"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "science"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Maps;Geography;Earth;Mathematics;Research;your-feed-science"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Joshua Sokol"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Can This New Map Fix Our Distorted Views of the World?"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "You\'92re going to need some double-sided tape."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Maps"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Geography"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Earth"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Mathematics"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Research"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "your-feed-science"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/20ca3937-ad26-5d81-842d-5479ceef60d2"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/opinion/covid-pandemic-mothers-parenting.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007619273\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007619273\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 22:53:49"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Opinion"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "opinion"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Quarantine (Life and Culture);Children and Childhood;Coronavirus (2019-nCoV);Parenting;Work-Life Balance"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Jennifer Senior"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Mothers All Over Are Losing It"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Pandemic life has made us feel more insecure about the aspects of our parenting we were already most insecure about."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Quarantine (Life and Culture)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Children and Childhood"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Coronavirus (2019-nCoV)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Parenting"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Work-Life Balance"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Sophie Chivet/Agence VU'"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/25/opinion/24senior-new-print/24senior-new-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/25/opinion/24senior-new-print/24senior-new-mediumThreeByTwo210.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/25/opinion/24senior-new-print/24senior-new-mediumThreeByTwo440.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/dc9f2723-2190-54d9-abcb-dc37177ec1f2"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/sports/golf/tiger-woods-car-accident.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620848\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007620848\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 14:39:58"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Sports"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Golf"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "sports"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Traffic Accidents and Safety;Golf;Masters Golf Tournament;Woods, Tiger;Los Angeles County (Calif)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Kevin Draper and Alan Blinder"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "What to Know About Tiger Woods\'92s Car Crash and Condition"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Woods is recovering from \'93serious\'94 leg injuries but his long-term prognosis is not publicly known. The authorities are investigating the crash solely as an accident, not as a criminal case."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Traffic Accidents and Safety"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Golf"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Masters Golf Tournament"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Woods, Tiger"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Los Angeles County (Calif)"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/25548298-fbdd-50d3-bb6c-b814b7d9f8b6"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007621133\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007621133\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 13:08:10"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "U.S."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Politics"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "u.s."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "United States Politics and Government;Presidential Election of 2024;Romney, Mitt;Trump, Donald J;Republican Party"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Thomas Kaplan"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Romney predicts Trump would win the 2024 G.O.P. nomination if he ran for president."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "\'93I would probably be getting behind somebody who I thought more represented the tiny wing of the Republican Party that I represent,\'94 Mr. Romney said."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "United States Politics and Government"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Presidential Election of 2024"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Republican Party"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Romney, Mitt"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Trump, Donald J"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Senator Mitt Romney of Utah said on Tuesday that he thought if Donald J. Trump ran for president in 2024, he would win the Republican Party\'92s nomination."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Erin Scott for The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-mediumThreeByTwo210.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-mediumThreeByTwo440.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/38d5249c-826c-5552-ad93-3a96eb26f1f6"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/well/move/weight-gain-amazon.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007617777\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007617777\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 10:51:28"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Well"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Move"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "well"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Exercise;Children and Childhood;Obesity;Weight;Eating Disorders;Calories;Diet and Nutrition;Indigenous People"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Gretchen Reynolds"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Exercise vs. Diet? What Children of the Amazon Can Teach Us About Weight Gain"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "What we eat may be more important than how much we move when it comes to fighting obesity."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Exercise"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Children and Childhood"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Obesity"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Weight"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Eating Disorders"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Calories"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Diet and Nutrition"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Indigenous People"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "A young girl carries harvested food, part of the traditional hunting and gathering lifestyle of the Shuar of Amazonian Ecuador."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Samuel S. Urlacher, Ph.D. "\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/03/11/well/11Well-sci-physed-amazon2/11Well-sci-physed-amazon2-thumbStandard-v5.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/03/11/well/11Well-sci-physed-amazon2/11Well-sci-physed-amazon2-mediumThreeByTwo210-v5.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/03/11/well/11Well-sci-physed-amazon2/11Well-sci-physed-amazon2-mediumThreeByTwo440-v5.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/312205bb-6aa3-5269-bfb6-36289ce2a80e"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000006667276\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000006667276\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 11:43:43"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Books"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "books"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Poetry and Poets;Books and Literature;Book Trade and Publishing;Deaths (Obituaries);Ferlinghetti, Lawrence;City Lights Bookstore;San Francisco (Calif)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Jesse McKinley"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Lawrence Ferlinghetti, Poet Who Nurtured the Beats, Dies at 101"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "An unapologetic proponent of \'93poetry as insurgent art,\'94 he was also a publisher and the owner of the celebrated San Francisco bookstore City Lights."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Poetry and Poets"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Books and Literature"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Book Trade and Publishing"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Deaths (Obituaries)"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "City Lights Bookstore"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Ferlinghetti, Lawrence"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "San Francisco (Calif)"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/df122551-225a-556c-b9d6-02165261628a"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/23/us/vermont-gun-range-pawlet-zoning.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007577648\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007577648\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-23"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24 08:10:07"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "U.S."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 ""\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "u.s."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Firearms;Gun Control;Zoning;Real Estate and Housing (Residential);Threats and Threatening Messages;Right-Wing Extremism and Alt-Right;Land Use Policies;Banyai, Daniel;Pawlet (Vt)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Ellen Barry"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "A Bristling Standoff Rattles Gun-Friendly Vermont"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "In Pawlet, Vt., where a landowner opened a tactical weapons training site, a zoning dispute has escalated into something more dangerous."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Firearms"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Gun Control"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Zoning"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Real Estate and Housing (Residential)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Threats and Threatening Messages"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Right-Wing Extremism and Alt-Right"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Land Use Policies"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Banyai, Daniel"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Pawlet (Vt)"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "A shooting range and tactical course at Slate Ridge."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Hilary Swift for The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-thumbStandard-v3.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-mediumThreeByTwo210-v4.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/18/us/00Vermont8-promo/00Vermont8-promo-mediumThreeByTwo440-v4.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "uri"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "nyt://article/3094e4a0-ac87-534d-9362-c764308f000a"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://www.nytimes.com/2021/02/24/us/politics/language-government-biden-trump.html"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007612668\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "asset_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 100000007612668\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "source"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "published_date"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-24"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "updated"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "2021-02-25 10:32:05"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "section"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "U.S."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "subsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Politics"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "nytdsection"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "u.s."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "adx_keywords"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Language and Languages;United States Politics and Government;Immigration and Emigration;Illegal Immigration;Global Warming;Biden, Joseph R Jr;Trump, Donald J;Bureau of Land Management;Environmental Protection Agency;Interior Department;Citizenship and Immigration Services (US);Homeland Security Department"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "column"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 null\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "byline"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "By Michael D. Shear"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Article"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "title"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "The Words That Are In and Out With the Biden Administration"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "abstract"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "\'93The president has been clear to all of us \'97 words matter, tone matters and civility matters,\'94 said Jen Psaki, the White House press secretary."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "des_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Language and Languages"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "United States Politics and Government"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Immigration and Emigration"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Illegal Immigration"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Global Warming"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "org_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Bureau of Land Management"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Environmental Protection Agency"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Interior Department"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Citizenship and Immigration Services (US)"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Homeland Security Department"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "per_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Biden, Joseph R Jr"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                 \cf6 \strokec6 "Trump, Donald J"\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "geo_facet"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "media"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "type"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "image"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "subtype"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "photo"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "caption"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "President Biden in the Oval Office this month. The rhetorical overhaul is underway across the government as executive orders are drafted, news releases are modified and scores of federal forms are tweaked."\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "copyright"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Doug Mills/The New York Times"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "approved_for_syndication"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 1\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                     \cf5 \strokec5 "media-metadata"\cf2 \strokec2 :\cf4 \strokec4  \cf2 \strokec2 [\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/21/us/politics/21dc-words-lede/21dc-words-lede-thumbStandard.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "Standard Thumbnail"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 75\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/21/us/politics/21dc-words-lede/21dc-words-lede-mediumThreeByTwo210-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo210"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 140\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 210\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \},\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \{\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "url"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "https://static01.nyt.com/images/2021/02/21/us/politics/21dc-words-lede/21dc-words-lede-mediumThreeByTwo440-v2.jpg"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "format"\cf2 \strokec2 :\cf4 \strokec4  \cf6 \strokec6 "mediumThreeByTwo440"\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "height"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 293\cf2 \strokec2 ,\cf4 \cb1 \strokec4 \
+\cb3                             \cf5 \strokec5 "width"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 440\cf4 \cb1 \strokec4 \
+\cb3                         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3                     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\cb3                 \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3             \cf2 \strokec2 ],\cf4 \cb1 \strokec4 \
+\cb3             \cf5 \strokec5 "eta_id"\cf2 \strokec2 :\cf4 \strokec4  \cf7 \strokec7 0\cf4 \cb1 \strokec4 \
+\cb3         \cf2 \strokec2 \}\cf4 \cb1 \strokec4 \
+\cb3     \cf2 \strokec2 ]\cf4 \cb1 \strokec4 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 \cb3 \strokec2 \}\cf4 \cb1 \strokec4 \
+}
