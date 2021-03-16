@@ -1,0 +1,132 @@
+{
+  "iosDevInfo" : {
+    "myApps" : [
+      {
+        "myRole" : "Solo Developer",
+        "cost" : "Free",
+        "availability" : "App Store",
+        "downloadLink" : "https:\/\/apps.apple.com\/us\/app\/id1515152448",
+        "logoImageLink" : "NONE",
+        "deviceAvailability" : "iPhones",
+        "releaseDate" : "...2020",
+        "version" : 1.3,
+        "description" : "DESCRIPTION",
+        "name" : "Foster",
+        "previewImagesLinks" : [
+          "NONE"
+        ]
+      },
+      {
+        "myRole" : "Solo Developer",
+        "cost" : "Free",
+        "availability" : "App Store",
+        "downloadLink" : "https:\/\/apps.apple.com\/app\/id1550443458",
+        "logoImageLink" : "NONE",
+        "deviceAvailability" : "iPhones",
+        "releaseDate" : "...2020",
+        "version" : 1,
+        "description" : "DESCRIPTION",
+        "name" : "GridPlan",
+        "previewImagesLinks" : [
+          "NONE"
+        ]
+      },
+      {
+        "myRole" : "Solo Developer",
+        "cost" : "Free",
+        "availability" : "GitHub, Open Source",
+        "downloadLink" : "https:\/\/github.com\/getyarley\/COVID-Tracker",
+        "logoImageLink" : "NONE",
+        "deviceAvailability" : "iPhones",
+        "releaseDate" : "...2021",
+        "version" : 1,
+        "description" : "DESCRIPTION",
+        "name" : "COVID Chart",
+        "previewImagesLinks" : [
+          "NONE"
+        ]
+      }
+    ],
+    "skills" : [
+      "SwiftUI",
+      "UIKit",
+      "WidgetKit",
+      "OTHERS HERE"
+    ],
+    "languages" : [
+      {
+        "timeUsed" : 2,
+        "language" : "Swift"
+      }
+    ]
+  },
+  "experienceInfo" : {
+    "associatedCompanies" : [
+      {
+        "name" : "Collins",
+        "logoLink" : "NONE"
+      },
+      {
+        "name" : "Gulfstream",
+        "logoLink" : "NONE"
+      },
+      {
+        "name" : "MORE",
+        "logoLink" : "NONE"
+      }
+    ],
+    "jobs" : [
+      {
+        "title" : "Electro-Mechanical Engineer",
+        "company" : {
+          "name" : "Triumph Engine Control Systems",
+          "logoLink" : "NONE"
+        },
+        "timeframe" : "January 2018 - Present",
+        "description" : "DESCRIPTION"
+      },
+      {
+        "title" : "Structural Analysis Engineer",
+        "company" : {
+          "name" : "QuEST Global",
+          "logoLink" : "NONE"
+        },
+        "timeframe" : "July 2016 - September 2018",
+        "description" : "DESCRIPTION"
+      }
+    ]
+  },
+  "aboutMeInfo" : {
+    "schools" : [
+      {
+        "schoolImageLink" : "NONE",
+        "projects" : [
+          {
+            "projectImageLink" : "NONE",
+            "title" : "Senior Design Project",
+            "subtitle" : "Remote Controlled Seagliding Aircraft",
+            "description" : "DESCRIPTION HERE"
+          }
+        ],
+        "major" : "Aerospace Engineering",
+        "years" : "2012 - 2016",
+        "degree" : "Bachelor of Science",
+        "schoolName" : "North Carolina State University"
+      }
+    ],
+    "profileInfo" : {
+      "profilePictureLink" : "NONE",
+      "contactInfo" : {
+        "email" : "Jeremy.Yarley@gmail.com",
+        "phone" : 9192157868,
+        "twitter" : "@JeremyYarley",
+        "gitHub" : "https:\/\/github.com\/getyarley\/JYarley-Developer-Portfolio",
+        "linkedIn" : "https:\/\/www.linkedin.com\/in\/jayalan39\/"
+      },
+      "name" : "Jeremy Yarley",
+      "location" : "Hartford  CT",
+      "professionalTitle" : "Eletro Mechanical Engineer"
+    },
+    "hobbiesDescription" : "Reading, drawing, coffee, running, getting injured, not running anymore, cooking, eating."
+  }
+}
