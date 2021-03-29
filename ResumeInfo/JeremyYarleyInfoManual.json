@@ -8,9 +8,9 @@
         "downloadLink" : "https:\/\/apps.apple.com\/us\/app\/id1515152448",
         "logoImageLink" : "NONE",
         "deviceAvailability" : "iPhones",
-        "releaseDate" : "...2020",
-        "version" : 1.3,
-        "description" : "DESCRIPTION",
+        "releaseDate" : "May 2020",
+        "version" : 1.6,
+        "description" : "A wish list app built in SwiftUI that allows users to create, manage, and share wish lists with others. Foster uses the Firebase API for universal links, user authentication, and backend data storage. SFSafariViewController is leverage to open hyperlinks within the app so gifts can be viewed and purchased all in one place.",
         "name" : "Foster",
         "previewImagesLinks" : [
           "NONE"
@@ -23,9 +23,9 @@
         "downloadLink" : "https:\/\/apps.apple.com\/app\/id1550443458",
         "logoImageLink" : "NONE",
         "deviceAvailability" : "iPhones",
-        "releaseDate" : "...2020",
-        "version" : 1,
-        "description" : "DESCRIPTION",
+        "releaseDate" : "January 2021",
+        "version" : 1.0,
+        "description" : "A miniamlist calendar app with a unique aesthetic and beaufitul animations built using MatchedGeometryEffect. User data is saved and loaded using Apple's CloudKit framework. The MapKit framework is incorporated so the user can include an address or geographic location with their calendar events. ",
         "name" : "GridPlan",
         "previewImagesLinks" : [
           "NONE"
@@ -38,9 +38,9 @@
         "downloadLink" : "https:\/\/github.com\/getyarley\/COVID-Tracker",
         "logoImageLink" : "NONE",
         "deviceAvailability" : "iPhones",
-        "releaseDate" : "...2021",
-        "version" : 1,
-        "description" : "DESCRIPTION",
+        "releaseDate" : "November 2020",
+        "version" : 1.0,
+        "description" : "An open source app build in SwiftUI to plot the latest COVID-19 statistics. JSON data is fetched, parsed, and plotted from the COVID Tracking Project API. Filter trends based on location and data criteria (positive cases, negative cases, deaths, etc.), and recent filter options are saved using UserDefaults. COVID Chart also includes a medium widget that can be included on the home screen for quick viewing, all using WidgetKit.",
         "name" : "COVID Chart",
         "previewImagesLinks" : [
           "NONE"
@@ -50,8 +50,14 @@
     "skills" : [
       "SwiftUI",
       "UIKit",
+      "JSON",
+      "UX Design",
+      "Git",
+      "Firebase",
       "WidgetKit",
-      "OTHERS HERE"
+      "MapKit",
+      "CloudKit",
+      "UserDefaults",
     ],
     "languages" : [
       {
@@ -83,7 +89,7 @@
           "logoLink" : "NONE"
         },
         "timeframe" : "January 2018 - Present",
-        "description" : "DESCRIPTION"
+        "description" : "Provide technical support to troubleshoot failures as well as lead development of new or redesigned hydromechanical pumps/metering units and power steering motors used on aerospace applications. Manage projects of varying complexity from start to finish and communicate progress with leadership. Generate and execute test plans to troubleshoot field issues, analyze performance trends, drive continuous improvement, and support prototype development. Collaborate as a multi disciplinary engineer to resolve issues and develop proactive solutions for pumps, metering units, motors, electrical sensors, test stands, and other hydromechanical devices. Analyze test data and build tools using Excel/VBA to assist in manufacturing and organization."
       },
       {
         "title" : "Structural Analysis Engineer",
@@ -92,7 +98,7 @@
           "logoLink" : "NONE"
         },
         "timeframe" : "July 2016 - September 2018",
-        "description" : "DESCRIPTION"
+        "description" : "Performed structural analysis on turbofan engine components with Finite Element Analysis software (ANSYS). - Built and ran analytical models, debugged convergence issues, generated scripts to modify raw data files (Perl, Excel), analyzed results, and communicated conclusions in technical reports."
       }
     ]
   },
@@ -103,9 +109,9 @@
         "projects" : [
           {
             "projectImageLink" : "NONE",
-            "title" : "Senior Design Project",
+            "title" : "Capstone Aircraft Senior Design Project",
             "subtitle" : "Remote Controlled Seagliding Aircraft",
-            "description" : "DESCRIPTION HERE"
+            "description" : "Worked on a team to design, construct, test, and fly a remote controlled sea gliding aircraft capable of a rapidly deployable rocket launch, transition to powered flight, water landing, submersion, and sea gliding operation. Detailed design, component procurement, CNC machining, composite fabrication, 3D printing, wind tunnel testing, basic circuits, and analytical analysis."
           }
         ],
         "major" : "Aerospace Engineering",
@@ -115,7 +121,7 @@
       }
     ],
     "profilePictureLinks": ["None"],
-    "bio": "My personal bio here...",
+    "bio": "Hello, I'm Jeremy. I'm an aerospace engineer by degree, an electro-mechanical engineer by practice, and an iOS developer by night.",
     "profileInfo" : {
       "profilePictureLink" : "NONE",
       "contactInfo" : {
@@ -127,7 +133,7 @@
       },
       "name" : "Jeremy Yarley",
       "location" : "Hartford  CT",
-      "professionalTitle" : "Eletro Mechanical Engineer"
+      "professionalTitle" : "Eletro-Mechanical Engineer"
     },
     "hobbiesDescription" : "Reading, drawing, coffee, running, getting injured, not running anymore, cooking, eating."
   }
