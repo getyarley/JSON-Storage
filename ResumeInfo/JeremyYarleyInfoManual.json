@@ -40,7 +40,7 @@
         "deviceAvailability" : "iPhones",
         "releaseDate" : "November 2020",
         "version" : 1.0,
-        "description" : "An open source app build in SwiftUI to plot the latest COVID-19 statistics. JSON data is fetched, parsed, and plotted from the COVID Tracking Project API. Filter trends based on location and data criteria (positive cases, negative cases, deaths, etc.), and recent filter options are saved using UserDefaults. COVID Chart also includes a medium widget that can be included on the home screen for quick viewing, all using WidgetKit.",
+        "description" : "An open source app build in SwiftUI to plot the latest COVID-19 statistics. JSON data is fetched, parsed, and plotted from the COVID Tracking Project API. Filter trends based on location and data criteria (positive cases, negative cases, deaths, etc.), and recent filter options are saved using UserDefaults. COVID Chart also includes a medium and a large widget that can be included on the home screen for quick viewing, all using WidgetKit.",
         "name" : "COVID Chart",
         "previewImagesLinks" : [
           "NONE"
